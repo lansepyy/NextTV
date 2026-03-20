@@ -261,7 +261,9 @@ bun run build
 ### 1. 使用 Vercel 部署
 
 Fork 项目后，点击 Vercel 按钮即可部署。
-[![Deploy with Vercel](https://vercel.com/button)](...)
+## 🚀 一键部署到 Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lansepyy/NextTV&project-name=NextTV&repository-name=NextTV)
 ### 2. 使用 EdgeOne 部署
 
 Fork 项目后，进入 EdgeOne pages 即可部署。
