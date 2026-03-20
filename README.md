@@ -261,7 +261,7 @@ bun run build
 ### 1. 使用 Vercel 部署
 
 Fork 项目后，点击 Vercel 按钮即可部署。
-
+[![Deploy with Vercel](https://vercel.com/button)](...)
 ### 2. 使用 EdgeOne 部署
 
 Fork 项目后，进入 EdgeOne pages 即可部署。
